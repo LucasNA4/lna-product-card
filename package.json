@@ -52,6 +52,7 @@
     }
   ],
   "devDependencies": {
+    "@types/react-test-renderer": "^18.0.1",
     "@babel/preset-env": "^7.22.15",
     "@babel/preset-react": "^7.22.15",
     "@rollup/plugin-image": "^3.0.2",
@@ -79,7 +80,7 @@
     "alvarez"
   ],
   "dependencies": {
-    "@types/react-test-renderer": "^18.0.1"
+    
   },
   "jest": {
     "moduleNameMapper": {

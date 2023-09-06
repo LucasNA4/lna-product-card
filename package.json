@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "lna-product-card",
+  "name": "lna-product-card-ts",
   "author": "LucasNA4",
   "module": "dist/lna-product-card.esm.js",
   "size-limit": [

@@ -7,7 +7,7 @@ Este es un paquete de pruebas de despliegue en NPM
 ## Ejemplo
 
 ```
-import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'lna-product-card';
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'lna-product-card-ts';
 ```
 
 ```
